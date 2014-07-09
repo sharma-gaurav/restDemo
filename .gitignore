@@ -36,3 +36,4 @@ grailsw.bat
 /wrapper
 /test
 /.idea
+*.md
